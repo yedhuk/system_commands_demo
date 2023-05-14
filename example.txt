@@ -1,0 +1,1 @@
+Step-1 : Add the modified file to the staging area
